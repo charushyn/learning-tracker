@@ -20,6 +20,7 @@ This initial phase focuses on setting up the development environment, understand
 - [x] Services Layer
 - [x] CRUD Operations
 - [x] Environment Variables (ENV)
+- [ ] Implement TypeScript
 
 ---
 
